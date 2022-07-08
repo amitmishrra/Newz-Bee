@@ -1,3 +1,3 @@
-Live Link - `https://amitmishrra.github.io/Newz-Bee/`
+### `https://amitmishrra.github.io/Newz-Bee/`
 
-Development code - `https://github.com/amitmishrra/newz-app`
+#### `https://github.com/amitmishrra/newz-app`
